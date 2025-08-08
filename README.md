@@ -41,7 +41,9 @@ Login_form/
 
 ---
 
-## 📸 Preview
+## 📽️ Demo Preview
+
+![Login Form Animation](form.gif)
 
  
 ---
