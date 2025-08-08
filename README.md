@@ -53,6 +53,8 @@ You can:
 - Integrate it with any backend (Node.js, PHP, Firebase, etc.)
 - Clone and customize as needed
 
+---
+
 ### 🌟 Contributing
 
 Pull requests are welcome! If you'd like to suggest improvements, feel free to fork and submit a PR.
