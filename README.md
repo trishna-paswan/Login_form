@@ -24,3 +24,34 @@ This project is perfect for beginners and frontend developers who want to reuse 
 
 ## 📁 Project Structure
 
+```
+Login_form/
+├── index.html # Main HTML file with login and register forms
+├── style.css # All CSS styles and transitions
+└── script.js # JS logic to toggle panels
+```
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript 
+
+---
+
+## 📸 Preview
+
+ 
+---
+
+## 🔧 Usage
+
+You can:
+- Use this as a template for your own authentication pages
+- Integrate it with any backend (Node.js, PHP, Firebase, etc.)
+- Clone and customize as needed
+
+🌟 Contributing
+Pull requests are welcome! If you'd like to suggest improvements, feel free to fork and submit a PR.
