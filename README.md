@@ -55,6 +55,6 @@ You can:
 
 ---
 
-### 🌟 Contributing
+## 🌟 Contributing
 
 Pull requests are welcome! If you'd like to suggest improvements, feel free to fork and submit a PR.
